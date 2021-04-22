@@ -1,3 +1,4 @@
+![Screenshot (22)](https://user-images.githubusercontent.com/82368153/115681212-f1e6d180-a371-11eb-818a-13e7c2eb6f1a.png)
 Install NGINX :
         =============
       apt-get update
