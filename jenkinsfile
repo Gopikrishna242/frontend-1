@@ -3,7 +3,7 @@
 todo (
         COMPONENT             : 'frontendd',
         PROJECT_NAME          : "TODO",
-        SLAVE_LABEL           : "nodejs",
+        SLAVE_LABEL           : "MASTER",
         SKIP_NEXUS_UPLOAD     : false,
         APP_TYPE              : "NGINX"
 )
