@@ -1,8 +1,8 @@
 @Library('todo') _
 
-roboshop (
+todo (
         COMPONENT             : 'frontendd',
-        PROJECT_NAME          : "todo",
+        PROJECT_NAME          : "TODO",
         SLAVE_LABEL           : "nodejs",
         SKIP_NEXUS_UPLOAD     : false,
         APP_TYPE              : "NGINX"
